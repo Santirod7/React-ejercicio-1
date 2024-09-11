@@ -1,4 +1,4 @@
-# Primer ejercicio Proyecto de React
+# Primer ejercicio de React
 
 [![React](https://img.shields.io/badge/React-v17+-blue.svg)](https://reactjs.org/)
 
